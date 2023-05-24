@@ -1,0 +1,26 @@
+hyprland-nvidia-git
+xdg-desktop-portal-hyprland
+qt5-wayland
+qt5ct
+libva
+nvidia-vaapi-driver-git
+gtk3 
+gtk-layer-shell
+pango
+gdk-pixbuf2
+cairo
+glib2
+gcc-libs
+glibc
+paru
+openrazer-meta
+linux-headers 
+nvidia-open-dkms
+ nvidia-settings
+playerctl 
+pamixer
+wireplumber 
+polkit-gnome
+kitty
+dunst
+ttf-jetbrains-mono-nerd 
