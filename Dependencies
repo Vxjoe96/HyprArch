@@ -1,5 +1,5 @@
 hyprland-nvidia-git
-xdg-desktop-portal-hyprland
+xdg-desktop-portal-hyprland-git
 qt5-wayland
 qt5ct
 libva
@@ -16,7 +16,7 @@ paru
 openrazer-meta
 linux-headers 
 nvidia-open-dkms
- nvidia-settings
+nvidia-settings
 playerctl 
 pamixer
 wireplumber 
@@ -24,3 +24,4 @@ polkit-gnome
 kitty
 dunst
 ttf-jetbrains-mono-nerd 
+hyprpaper
