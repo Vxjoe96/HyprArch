@@ -12,7 +12,6 @@ cairo
 glib2
 gcc-libs
 glibc
-paru
 openrazer-meta
 linux-headers 
 nvidia-open-dkms
