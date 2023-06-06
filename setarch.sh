@@ -1,7 +1,5 @@
 #!/bin/bash
-Status = $?
-#setting dns server
-sudo sed -i '2 s/.*/nameserver 8.8.8.8/' etc/resolv.conf
+
 
 ##checking for yay
 YAY=/sbin/yay
@@ -16,8 +14,8 @@ else
         cd yay-git
         makepkg -si --noconfirm
         cd ..
-	[ $status -eq 0 ] && echo "yay was installed!" || echo "yay failed to install" && exit
 fi
+
 ##nvidia drivers
 echo "installing and setting up nvidia drivers"
 yay -S --noconfirm linux-headers nvidia-dkms qt5-wayland qt5ct libva libva-nvidia-driver-git
@@ -26,5 +24,6 @@ sudo mkinitcpio --config /etc/mkinitcpio.conf --generate /boot/initramfs-custom.
 echo -e "options nvidia-drm modeset=1" | sudo tee -a /etc/modprobe.d/nvidia.conf
 
 fi 
-
+#installing packages 
+yay -S --noconfirm $packages
 exit
