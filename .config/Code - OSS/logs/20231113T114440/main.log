@@ -1,0 +1,4 @@
+2023-11-13 11:44:42.181 [info] update#setState disabled
+2023-11-13 11:44:42.291 [info] update#ctor - updates are disabled as there is no update URL
+2023-11-13 12:09:55.591 [info] Extension host with pid 14628 exited with code: 15, signal: unknown.
+2023-11-13 12:09:55.592 [error] [UtilityProcess id: 1, type: extensionHost, pid: 14628]: crashed with code 15 and reason 'killed'

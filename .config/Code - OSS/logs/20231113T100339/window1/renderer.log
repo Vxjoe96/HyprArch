@@ -1,0 +1,5 @@
+2023-11-13 10:03:53.380 [info] [perf] Render performance baseline is 25ms
+2023-11-13 10:41:03.011 [error] No registered selector for ID: ms-vscode.npm-command: Error: No registered selector for ID: ms-vscode.npm-command
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1544:26325
+2023-11-13 10:41:11.603 [error] No registered selector for ID: ms-vscode.npm-command: Error: No registered selector for ID: ms-vscode.npm-command
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1544:26325

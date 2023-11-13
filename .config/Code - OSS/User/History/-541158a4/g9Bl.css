@@ -1,0 +1,21 @@
+#page-action-buttons,.toolbarbutton{
+    opacity:0;
+  }
+  #urlbar{ transition: background-color 82ms linear; }
+  #nav-bar:not(:hover) #urlbar{
+    background: transparent;
+    border-color:transparent;
+  }
+  .toolbar:hover #page-action-buttons,
+  .toolbar:hover .toolbarbutton{
+    opacity:1;
+  }
+  #PersonalToolbar{
+    opacity:0;
+    margin-top: -32px;
+  }
+  #nav-bar:hover + #PersonalToolbar,
+  #PersonalToolbar:hover{
+    margin-top:0;
+    opacity:1;
+  }

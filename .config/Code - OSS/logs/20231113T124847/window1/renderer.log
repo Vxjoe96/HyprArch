@@ -1,0 +1,30 @@
+2023-11-13 12:48:52.764 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/joseph/.mozilla/firefox/jevq53v8.default-release/chrome/userChrome.css","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-11-13 12:49:53.789 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+2023-11-13 12:49:55.224 [error] Cannot read properties of undefined (reading 'element'): TypeError: Cannot read properties of undefined (reading 'element')
+    at b.element (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:194:13545)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:194:28045
+    at Array.map (<anonymous>)
+    at b.splice (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:194:28017)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4:8489
+    at Array.forEach (<anonymous>)
+    at t.splice (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4:8476)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:227:7459
+    at k.bufferEvents (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:87:4785)
+    at Q.splice (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:227:7435)
+    at Q.splice (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:613:48247)
+    at Object.splice (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:190:36129)
+    at g.s (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:190:21674)
+    at g.splice (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:190:19904)
+    at L.l (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:190:28167)
+    at L.setChildren (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:190:27711)
+    at a.i (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:190:33922)
+    at a.setChildren (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:190:32907)
+    at l.setChildren (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:190:37111)
+    at y.setChildren (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:614:7466)
+    at oe.I (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:614:20784)
+    at oe.I (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:614:24575)
+    at oe.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:614:17957)
+    at async oe.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:614:15419)
+    at async oe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:614:14964)
+2023-11-13 12:49:57.674 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/joseph/.config/hypr/hyprland.conf 
+2023-11-13 12:50:01.723 [info] [perf] Render performance baseline is 24ms

@@ -1,0 +1,46 @@
+2023-11-13 10:03:50.668 [info] Extension host with pid 1334 started
+2023-11-13 10:03:50.668 [info] Skipping acquiring lock for /home/joseph/.config/Code - OSS/User/workspaceStorage/d6c26833dd318236985affeadac9a6d5.
+2023-11-13 10:03:50.982 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-13 10:03:51.034 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-13 10:03:51.636 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-13 10:03:51.735 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-13 10:03:51.991 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-13 10:03:52.611 [info] Eager extensions activated
+2023-11-13 10:03:52.620 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-13 10:03:52.633 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-13 10:39:54.717 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:39:54.751 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:39:54.806 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:40:00.200 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2023-11-13 10:40:11.857 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2023-11-13 10:40:21.423 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2023-11-13 10:41:02.474 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-13 10:41:02.481 [info] Extension host with pid 1334 exiting with code 0
+2023-11-13 10:41:02.870 [info] Extension host with pid 12124 started
+2023-11-13 10:41:02.870 [info] Skipping acquiring lock for /home/joseph/.config/Code - OSS/User/workspaceStorage/fc4508e93b1ff2505f1dd031e6382f10.
+2023-11-13 10:41:02.874 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-13 10:41:02.885 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-13 10:41:02.910 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:41:02.918 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:41:02.958 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:41:03.194 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-13 10:41:03.219 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-13 10:41:03.266 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-13 10:41:03.306 [info] Eager extensions activated
+2023-11-13 10:41:03.319 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-13 10:41:03.320 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-13 10:41:10.947 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-13 10:41:10.954 [info] Extension host with pid 12124 exiting with code 0
+2023-11-13 10:41:11.236 [info] Extension host with pid 12204 started
+2023-11-13 10:41:11.236 [info] Skipping acquiring lock for /home/joseph/.config/Code - OSS/User/workspaceStorage/fc4508e93b1ff2505f1dd031e6382f10.
+2023-11-13 10:41:11.241 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-13 10:41:11.252 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-13 10:41:11.278 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:41:11.286 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:41:11.328 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-11-13 10:41:11.603 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-13 10:41:11.605 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-13 10:41:11.655 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-13 10:41:11.694 [info] Eager extensions activated
+2023-11-13 10:41:11.711 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-13 10:41:11.712 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
